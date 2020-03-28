@@ -183,8 +183,6 @@ const SignIn = props => {
           xs={12}
         >
           <div className={classes.content}>
-            <div className={classes.contentHeader}>
-            </div>
             <div className={classes.contentBody}>
               <form
                 className={classes.form}
