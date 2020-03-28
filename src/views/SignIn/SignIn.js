@@ -192,7 +192,7 @@ const SignIn = props => {
                   className={classes.title}
                   variant="h2"
                 >
-                  Login
+                  Login do clebão
                 </Typography>
                 <Typography
                   color="textSecondary"
